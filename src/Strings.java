@@ -12,7 +12,6 @@ public class Strings {
         String fullName = lastName + " " + firstName + " " + middleName;
         System.out.println("ФИО сотрудника - " + fullName);
     }
-
     public static void task2() {
         System.out.println("Задача №2");
         String firstName = "Ivan";
